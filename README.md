@@ -1,2 +1,6 @@
-# Deployment_for_Heroku
-trying my first deployment for heroku
+# heroku Deployment test application
+
+the purpose of this app is to test the deployment on different host providers
+my first try is on heroku.
+
+if you would like to use this as a deployment
